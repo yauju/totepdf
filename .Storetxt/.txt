@@ -1,0 +1,96 @@
+Confirm Meeting
+Meeting No.：1 ST SUN                         Meeting Date：08-Sep-2024                           Meeting Status：Pending
+Select Tote：SPGTOTE
+Race                Pool - CMGC                              Granted                     Participated
+1                   WIN                                      Yes                         No
+1                   PLA                                      Yes                         No
+1                   QIN                                      Yes                         No
+1                   QPL                                      Yes                         No
+1                   FCT                                      No                          No
+1                   TRI                                      No                          No
+1                   TCE                                      No                          No
+1                   DBL                                      No                          No
+1                   D-T                                      No                          No
+2                   WIN                                      Yes                         No
+2                   PLA                                      Yes                         No
+2                   QIN                                      Yes                         No
+2                   QPL                                      Yes                         No
+2                   FCT                                      No                          No
+2                   TRI                                      No                          No
+2                   TCE                                      No                          No
+2                   DBL                                      No                          No
+3                   WIN                                      Yes                         No
+3                   PLA                                      Yes                         No
+3                   QIN                                      Yes                         No
+3                   QPL                                      Yes                         No
+3                   FCT                                      No                          No
+3                   TRI                                      No                          No
+3                   TCE                                      No                          No
+3                   DBL                                      No                          No
+3                   D-T                                      No                          No
+3                   TBL                                      No                          No
+4                   WIN                                      Yes                         No
+4                   PLA                                      Yes                         No
+4                   QIN                                      Yes                         No
+4                   QPL                                      Yes                         No
+4                   FCT                                      No                          No
+4                   TRI                                      No                          No
+4                   TCE                                      No                          No
+4                   DBL                                      No                          NoRace                                                       Pool - CMGC                                                                                                                Granted                                                                               Participated
+4                                                          T-T                                                                                                                        No                                                                                    No
+5                                                          WIN                                                                                                                        Yes                                                                                   No
+5                                                          PLA                                                                                                                        Yes                                                                                   No
+5                                                          QIN                                                                                                                        Yes                                                                                   No
+5                                                          QPL                                                                                                                        Yes                                                                                   No
+5                                                          FCT                                                                                                                        No                                                                                    No
+5                                                          TRI                                                                                                                        No                                                                                    No
+5                                                          TCE                                                                                                                        No                                                                                    No
+5                                                          DBL                                                                                                                        No                                                                                    No
+5                                                          D-T                                                                                                                        No                                                                                    No
+5                                                          6UP                                                                                                                        No                                                                                    No
+6                                                          WIN                                                                                                                        Yes                                                                                   No
+6                                                          PLA                                                                                                                        Yes                                                                                   No
+6                                                          QIN                                                                                                                        Yes                                                                                   No
+6                                                          QPL                                                                                                                        Yes                                                                                   No
+6                                                          FCT                                                                                                                        No                                                                                    No
+6                                                          TRI                                                                                                                        No                                                                                    No
+6                                                          TCE                                                                                                                        No                                                                                    No
+6                                                          DBL                                                                                                                        No                                                                                    No
+7                                                          WIN                                                                                                                        Yes                                                                                   No
+7                                                          PLA                                                                                                                        Yes                                                                                   No
+7                                                          QIN                                                                                                                        Yes                                                                                   No
+7                                                          QPL                                                                                                                        Yes                                                                                   No
+7                                                          FCT                                                                                                                        No                                                                                    No
+7                                                          TRI                                                                                                                        No                                                                                    No
+7                                                          TCE                                                                                                                        No                                                                                    No
+7                                                          DBL                                                                                                                        No                                                                                    No
+7                                                          D-T                                                                                                                        No                                                                                    No
+8                                                          WIN                                                                                                                        Yes                                                                                   No
+8                                                          PLA                                                                                                                        Yes                                                                                   No
+8                                                          QIN                                                                                                                        Yes                                                                                   No
+8                                                          QPL                                                                                                                        Yes                                                                                   No
+8                                                          FCT                                                                                                                        No                                                                                    No
+8                                                          TRI                                                                                                                        No                                                                                    No
+8                                                          TCE                                                                                                                        No                                                                                    No
+8                                                          DBL                                                                                                                        No                                                                                    No
+8                                                          TBL                                                                                                                        No                                                                                    No
+9                                                          WIN                                                                                                                        Yes                                                                                   No
+9                                                          PLA                                                                                                                        Yes                                                                                   NoRace                                                       Pool - CMGC                                                                                                                Granted                                                                               Participated
+9                                                          QIN                                                                                                                        Yes                                                                                   No
+9                                                          QPL                                                                                                                        Yes                                                                                   No
+9                                                          FCT                                                                                                                        No                                                                                    No
+9                                                          TRI                                                                                                                        No                                                                                    No
+9                                                          TCE                                                                                                                        No                                                                                    No
+9                                                          DBL                                                                                                                        No                                                                                    No
+9                                                          D-T                                                                                                                        No                                                                                    No
+10                                                         WIN                                                                                                                        Yes                                                                                   No
+10                                                         PLA                                                                                                                        Yes                                                                                   No
+10                                                         QIN                                                                                                                        Yes                                                                                   No
+10                                                         QPL                                                                                                                        Yes                                                                                   No
+10                                                         FCT                                                                                                                        No                                                                                    No
+10                                                         TRI                                                                                                                        No                                                                                    No
+10                                                         TCE                                                                                                                        No                                                                                    NoRace                                                       Pool - WPPI                                                                                                       Granted
+
+No data
+
+End Of Report                                                                                                                                                                                             05-Sep-2024 14:56:08

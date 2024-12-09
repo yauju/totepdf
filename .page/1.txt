@@ -1,0 +1,39 @@
+Confirm Meeting
+Meeting No.：1 ST SUN                         Meeting Date：08-Sep-2024                           Meeting Status：Pending
+Select Tote：SPGTOTE
+Race                Pool - CMGC                              Granted                     Participated
+1                   WIN                                      Yes                         No
+1                   PLA                                      Yes                         No
+1                   QIN                                      Yes                         No
+1                   QPL                                      Yes                         No
+1                   FCT                                      No                          No
+1                   TRI                                      No                          No
+1                   TCE                                      No                          No
+1                   DBL                                      No                          No
+1                   D-T                                      No                          No
+2                   WIN                                      Yes                         No
+2                   PLA                                      Yes                         No
+2                   QIN                                      Yes                         No
+2                   QPL                                      Yes                         No
+2                   FCT                                      No                          No
+2                   TRI                                      No                          No
+2                   TCE                                      No                          No
+2                   DBL                                      No                          No
+3                   WIN                                      Yes                         No
+3                   PLA                                      Yes                         No
+3                   QIN                                      Yes                         No
+3                   QPL                                      Yes                         No
+3                   FCT                                      No                          No
+3                   TRI                                      No                          No
+3                   TCE                                      No                          No
+3                   DBL                                      No                          No
+3                   D-T                                      No                          No
+3                   TBL                                      No                          No
+4                   WIN                                      Yes                         No
+4                   PLA                                      Yes                         No
+4                   QIN                                      Yes                         No
+4                   QPL                                      Yes                         No
+4                   FCT                                      No                          No
+4                   TRI                                      No                          No
+4                   TCE                                      No                          No
+4                   DBL                                      No                          No
